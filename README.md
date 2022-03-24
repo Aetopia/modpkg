@@ -8,7 +8,7 @@ Allows the user to update and install mods of their choice.
 ## Usage
 #### Begin by creating a profile for a MC installation.
 ```
-modpkg.py -p MyProfile 1.18.2 C:\Users\User\AppData\.minecraft\game\1.18.2
+modpkg.py -p MyProfile 1.18.2 C:\Users\User\AppData\Roaming\.minecraft\game\1.18.2
 ```
 The same command can be used to update/overwrite an existing profile.
 
