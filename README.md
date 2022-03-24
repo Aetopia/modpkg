@@ -21,3 +21,11 @@ modpkg.py -i MyProfile sodium lithium modmenu
 ```
 modpkg.py -u MyProfile
 ```
+
+## Requirements
+#### Python 3.8 +
+#### Modules
+```
+requests
+```
+
